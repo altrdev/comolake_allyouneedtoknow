@@ -1,6 +1,6 @@
 {
-    "name": "Nepal all you need to know",
-    "short_name": "Nepal",
+    "name": "Como lake all you need to know",
+    "short_name": "Como lake",
     "start_url": "/",
     "icons": [
         {
@@ -14,7 +14,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#CB2E40",
+    "theme_color": "#4f9ee5",
     "background_color": "#ffffff",
     "display": "standalone"
 }

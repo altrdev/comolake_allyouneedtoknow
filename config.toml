@@ -1,12 +1,12 @@
-baseURL = "https://nepal.allyouneedtoknow.tips/"
+baseURL = "https://comolake.allyouneedtoknow.tips/"
 theme = "hugo-sustain-ayntk"
 defaultContentLanguage = "en"
 languageCode = "en-US"
-title = "Nepal all you need to know"
+title = "Como lake all you need to know"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "nepal-allyouneedtoknow"
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-156024128-1"
+googleAnalytics = ""#"UA-156024128-1"
 
 enableRobotsTXT = true
 
@@ -30,7 +30,7 @@ enableRobotsTXT = true
 [params]
   avatar = "profile.png"
   author = "Alessandro Travi, Denise Caggio"
-  description = "Nepal all you need to know"
+  description = "Como lake all you need to know"
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
@@ -39,8 +39,9 @@ enableRobotsTXT = true
   amazon_affiliate = "true"
 
 [params.theme]
-  main_color = "#CB2E40"
-  main_color_hover = "#A32534"
+  main_color = "#4f9ee5"
+  main_color_hover = "#0d4a81"
+  code_color = "#4f9ee5"
 
 [params.authorAlessandro]
   name = "Alessandro"
