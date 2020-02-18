@@ -1,2 +1,2 @@
-# comolake_allyouneedtoknow [![Netlify Status](https://api.netlify.com/api/v1/badges/d51b252f-b108-4cbe-9511-ac2773c3345f/deploy-status)](https://app.netlify.com/sites/nepal-allyouneedtoknow/deploys)
+# comolake_allyouneedtoknow [![Netlify Status](https://api.netlify.com/api/v1/badges/3b0f8b6f-9c86-44d1-a763-4727e4a0cdb3/deploy-status)](https://app.netlify.com/sites/comolake-allyouneedtoknow/deploys)
 Site for Como lake Tips
