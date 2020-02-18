@@ -1,18 +1,18 @@
 ---
 date: 2020-02-01
 markup: blackfriday
-tags: [ things to do in nepal, travel tips, trek the himalayas, nepal backpacking, visit nepal 2020, nepal places to visit, budget travel, solo trip, annapurna, all you need to know, nepal all you need to know, nepal tips ]
-description: Travel tips on things to do in Nepal and places to visit. All you need to know to trek the Himalayas, backpacking in Nepal and more.
-image: media/bhaktapur-woman.jpg
+tags: [ things to do in como lake, travel tips, all you need to know, como lake all you need to know, como lake tips ]
+description: Travel tips on things to do in Como Lake and places to visit. All you need to know to trek the prealps in Como Lake and more.
+image: media/como-lake-sunset.jpg
 ---
 
-# Are you looking for things to do in Nepal? 
+# Are you looking for things to do in Como Lake? 
 
 <br>
 
-Here's `all you need to know` to trek the Himalayas, backpacking in Nepal and more.
+Here's `all you need to know` about history and traditions in Como Lake.
 
-If you're planning your solo trip and you're `travelling on a budget`, this is the right place to be.
+If you're planning your `trekking in Como Lake`, this is the right place to be.
 <br><br>
 
 <hr>
