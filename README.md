@@ -11,6 +11,7 @@
     - [Blog post](#blog-post)
 - [Shortcodes](#shortcodes)
 - [Front matter](#front-matter)
+- [Local test](#local-test)
 - [License](#license)
 
 ## Contents
@@ -120,8 +121,19 @@ translationKey: my-article
 
 `translationKey`: linking multilanguage page with different name. 
 
+## Local test
+Hugo includes a development server, so you can view your changes as you go -
+very handy. Spin it up with the following command:
+
+``` sh
+hugo serve
+```
+
+Now you can go to [localhost:1313][local] and the site should be visible.
 
 ## License
-<p style="text-align: center;">
-  <a href="./LICENSE.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/642px-MIT_logo.svg.png" height="60"></a>
+<p>
+  <a href="./LICENSE"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MIT_logo.svg/642px-MIT_logo.svg.png" height="60px"></a>
 </p>
+
+[local]: http://localhost:1313/
