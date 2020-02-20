@@ -12,6 +12,7 @@
 - [Shortcodes](#shortcodes)
 - [Front matter](#front-matter)
 - [Local test](#local-test)
+- [Git hooks](#git-hooks)
 - [License](#license)
 
 ## Contents
@@ -52,7 +53,6 @@ You must set `blog: true` in a `front matter` for transform your default page.
 Blog post adds `Disqus` comments and related post section.
 
 ### Shortcodes
-
 Some `shortcodes` are available:
 
 + bundle-image
@@ -97,11 +97,9 @@ translationKey: my-article
 
 `date`: file date
 
-`author`: name of author (`params.author[Author name]`) in a `config.toml`. 
-**Accepted values**: `Alessandro`, `Denise` 
+`author`: name of author (`params.author[Author name]`) in a `config.toml`. **Accepted values**: `Alessandro`, `Denise` 
 
-`authorLink`: social link about author.
-**Accepted values**: `Twitter`, `Instagram`, `Website`
+`authorLink`: social link about author. **Accepted values**: `Twitter`, `Instagram`, `Website`
 
 `title`: page title
 
@@ -121,6 +119,8 @@ translationKey: my-article
 
 `translationKey`: linking multilanguage page with different name. 
 
+`draft`: specify draft content. **Accepted values**: `true`
+
 ## Local test
 Hugo includes a development server, so you can view your changes as you go -
 very handy. Spin it up with the following command:
@@ -130,6 +130,15 @@ hugo serve
 ```
 
 Now you can go to [localhost:1313][local] and the site should be visible.
+
+## Git hooks
+
+You can install a Git hooks:
+
+``` sh
+cd git_hooks/
+./setup-hooks.sh
+```
 
 ## License
 <p>
