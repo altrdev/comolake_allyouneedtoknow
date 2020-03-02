@@ -3,7 +3,6 @@ date: 2020-02-01
 markup: blackfriday
 tags: [ things to do in como lake, travel tips, all you need to know, como lake all you need to know, como lake tips ]
 description: Travel tips on things to do in Como Lake and places to visit. All you need to know to trek the prealps in Como Lake and more.
-image: media/como-lake-sunset.jpg
 ---
 
 # Are you looking for things to do in Como Lake? 

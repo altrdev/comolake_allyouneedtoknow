@@ -37,6 +37,7 @@ enableRobotsTXT = true
   custom_js  = []
   metadata_allowed_blog = [ "in-depth", "approfondimenti" ]
   amazon_affiliate = "true"
+  ogimage = "media/como-lake-sunset.jpg"
 
 [params.theme]
   main_color = "#4f9ee5"
