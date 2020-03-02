@@ -10,7 +10,7 @@ source:
 
   - icon: fa fa-y-combinator
     number: 2
-    description: Como Lake has the typical shape of an <b>inversed Y</b>, one branch pointing North and the two others pointing towards Como (East) and Lecco (West).
+    description: Como Lake has the typical shape of an <b>inversed Y</b>, one branch pointing North and the two others pointing towards Como (Wast) and Lecco (East).
 
   - icon: fa fa-copy
     number: 3
@@ -22,7 +22,7 @@ source:
 
   - icon: fa fa-times
     number: 5
-    description: People that call the western side of the lake "Lecco lake" are wrong. <b>There's not a "Lecco lake"</b>, its name is Como Lake even on the Lecco shore.
+    description: People that call the eastern side of the lake "Lecco lake" are wrong. <b>There's not a "Lecco lake"</b>, its name is Como Lake even on the Lecco shore.
 
   - icon: fa fa-map-o
     number: 6
@@ -34,4 +34,4 @@ source:
 
   - icon: fa fa-train
     number: 7
-    description: Be careful, because the <b>only train line</b> that covers the whole lake north to south is on the west side (Colico-Lecco). There's no train lines on the east side, so trains on this side will stop in Como.
+    description: Be careful, because the <b>only train line</b> that covers the whole lake north to south is on the east side (Colico-Lecco). There's no train lines on the west side, so trains on this side will stop in Como.
