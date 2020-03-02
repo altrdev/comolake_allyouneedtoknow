@@ -1,5 +1,37 @@
 name: General
 source:
-  - icon: fa fa-flag
+  - icon: fa fa-map-o
     number: 0
-    description: Test tip.
+    description: <b>Como Lake</b> is situated in the very North of Italy, close to the border between Italy and Swiss. <a href="https://osm.org/go/0CmWd7?m=" target="_blank">Here</a>'s a map.
+
+  - icon: fa fa-id-card-o
+    number: 1
+    description: Lake of Como is also known as <b>Lario</b>, and its shape forms the so called "Larian triangle".
+
+  - icon: fa fa-y-combinator
+    number: 2
+    description: Como Lake has the typical shape of an <b>inversed Y</b>, one branch pointing North and the two others pointing towards Como (East) and Lecco (West).
+
+  - icon: fa fa-copy
+    number: 3
+    description: Differently from all the other glacial lakes of Northern Italy, Como Lake has <b>not a round shape</b> making this an unique characteristic. Indeed, it has the longest perimeter among all Italian lakes. 
+
+  - icon: fa fa-long-arrow-down
+    number: 4
+    description: Como Lake is <b>the deepest</b> lake among all Italian lakes.
+
+  - icon: fa fa-times
+    number: 5
+    description: People that call the western side of the lake "Lecco lake" are wrong. <b>There's not a "Lecco lake"</b>, its name is Como Lake even on the Lecco shore.
+
+  - icon: fa fa-map-o
+    number: 6
+    description: >
+      If you're planning to visit Como Lake, you'd need to understand <b>how to get there</b>.
+      <br>- <b>By plane</b>. The closest airports are Milan Malpensa and Milan Bergamo Orio al Serio, and both are around 30/40mins far from the lake.
+      <br> - <b>By Car</b>. You can arrive from Swiss, driving through an alpin pass or passing through Lugano or Chiasso. If you're coming from southern Italy, you should arrive to Milan and then take the road towards Valtellina (Sondrio) to come to Lecco, or towards Como to come to this main town.
+      <br> - <b>By train</b>. If you're departing from Milan, you could take both a train to Lecco (or Sondrio/Tirano if your destination is northern) and Como. If you're arriving from Switzerland, you could either stop in Como or go directly to Milan (or Monza) and then change your line towards Lecco (or Sondrio/Tirano).
+
+  - icon: fa fa-train
+    number: 7
+    description: Be careful, because the <b>only train line</b> that covers the whole lake north to south is on the west side (Colico-Lecco). There's no train lines on the east side, so trains on this side will stop in Como.

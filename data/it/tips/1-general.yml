@@ -1,5 +1,38 @@
 name: Generali
 source:
-  - icon: fa fa-flag
+  - icon: fa fa-map-o
     number: 0
-    description: Test tip.
+    description: Il <b>Lago di Como</b> si trova nel nord d'Italia, vicino al confine tra Italia e Svizzera. <a href="https://osm.org/go/0CmWd7?m=" target="_blank">Qui</a> trovate una mappa della zona.
+
+  - icon: fa fa-id-card-o
+    number: 1
+    description: Il Lago di Como è conosciuto anche con il nome di <b>Lario</b> e la sua forma particolare forma il cosiddetto "Triangolo lariano".
+
+  - icon: fa fa-y-combinator
+    number: 2
+    description: Il Lago di Como ha la tipica forma ad <b>Y rovesciata</b>, con una parte che punta a nord e gli altri due rami che puntano l'uno verso Como (ad est) e l'altro verso Lecco (ad ovest).
+
+  - icon: fa fa-copy
+    number: 3
+    description: A differenza di tutti gli altri laghi glaciali del nord Italia, il Lago di Como <b>non ha una forma rotondeggiante</b>, caratteristica che lo rende unico nel suo genere. Questo fa anche sì che sia il lago d'Italia con il perimetro maggiore.
+
+  - icon: fa fa-long-arrow-down
+    number: 4
+    description: Il Lago di Como è il lago <b>più profondo</b> d'Italia.
+  
+  - icon: fa fa-times
+    number: 5
+    description: Chi chiama la sponda occidentale del lago "Lago di Lecco" è decisamente in fallo. <b>Non esiste nessun "Lago di Lecco"</b>, il lago si chiama Lago di Como anche sul lato lecchese.
+
+  - icon: fa fa-map-o
+    number: 6
+    description: >
+      Se state programmando una vacanza sul Lago di Como, dovrete capire <b>come raggiungerlo</b>.
+      <br>- <b>In aereo</b>. Gli aeroporti più vicini sono Milano Malpensa e Milano Bergamo Orio al Serio, entrambi distanti circa 30/40 minuti dal lago.
+      <br>- <b>In auto</b>. Se arrivate da nord, potrete attraversare il confine Svizzero valicando uno dei passi alpini che permettono l'ingresso in Italia. Altrimenti potrete raggiungere il lago passando da Lugano o Chiasso. Se invece arrivate dal sud d'Italia, raggiungete Milano e poi proseguite in direzione Valtellina (Sondrio) se la vostra destinazione è sulla sponda lecchese, viceversa verso Como.
+      <br>- <b>In treno</b>. Se partite da Milano, potrete prendere la linea verso Lecco (o Sondrio/Tirano se la vostra destinazione è più a nord sul lago) o verso Como. Se invece arrivate dalla Svizzera, il vostro treno potrebbe fare stop a Como oppure andare dritto verso Milano (o Monza), dove potrete cambiare linea e proseguire verso Lecco (o Sondrio/Tirano).
+
+  - icon: fa fa-train
+    number: 7
+    description: State attenti, perchè l'<b>unica linea ferroviaria</b> che attraversa tutto il lago da nord a sud si trova sulla sponda lecchese e va appunto da Colico a Lecco. Non ci sono linee invece sulla sponda opposta, quindi i treni ad est  arrivano solo fino a Como.
+  
