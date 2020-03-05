@@ -38,6 +38,7 @@ enableRobotsTXT = true
   metadata_allowed_blog = [ "in-depth", "approfondimenti" ]
   amazon_affiliate = "true"
   ogimage = "media/como-lake-sunset.jpg"
+  kofi = "allyouneedtoknowtips"
 
 [params.theme]
   main_color = "#4f9ee5"
@@ -75,9 +76,9 @@ enableRobotsTXT = true
   weight = 200
   url = "/in-depth/"
 [[languages.en.menu.main]]
-  name = "donate"
+  name = "support us"
   weight = 300
-  url = "/donate/"
+  url = "/support/"
 
 ## Main Menu Italian
 [[languages.it.menu.main]]
@@ -89,6 +90,6 @@ enableRobotsTXT = true
   weight = 200
   url = "/approfondimenti/"
 [[languages.it.menu.main]]
-  name = "donazioni"
+  name = "supportaci"
   weight = 300
-  url = "/donazioni/"
+  url = "/supportaci/"
