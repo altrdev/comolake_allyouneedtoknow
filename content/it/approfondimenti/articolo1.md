@@ -13,30 +13,36 @@ translationKey: article1
 ---
 
 ### **Miascia: come cucinare la torta tradizionale del Lago di Como**
+--------
 
 **INGREDIENTI**
-150 g di pane raffermo
-4 dl di latte
-1 cucchiaio di farina 00
-1 cucchiaio di farina gialla tipo fioretto (opzionale)
-30 g di uvetta
-1 uovo
-1 mela Golden
-1 pera
-1 limone (scorza, opzionale)
-1 grappolino di uva bianca
-1 rametto di rosmarino (opzionale)
-50 g di zucchero
-40 g di burro
-1 pizzico di sale
 
-**DIFFICOLTA'** 1 / 5
++ 150 g di pane raffermo
++ 4 dl di latte
++ 1 cucchiaio di farina 00
++ 1 cucchiaio di farina gialla tipo fioretto (opzionale)
++ 30 g di uvetta
++ 1 uovo
++ 1 mela Golden
++ 1 pera
++ 1 limone (scorza, opzionale)
++ 1 grappolino di uva bianca
++ 1 rametto di rosmarino (opzionale)
++ 50 g di zucchero
++ 40 g di burro
++ 1 pizzico di sale
 
-**TEMPO** 20 min + 60 min cottura
 
-**COTTURA** In forno preriscaldato a 180° per circa un’ora.
+**DIFFICOLTA':** 1 / 5
+
+**TEMPO:** 20 min + 60 min cottura
+
+**COTTURA:** In forno preriscaldato a 180° per circa un’ora.
+
+--------
 
 **PREPARAZIONE**
+
 Spezzettate il pane grossolanamente e mettetelo a mollo con il latte tiepido. Lasciate riposare. Nel mentre mettete a mollo in acqua anche l'uvetta.
 Una volta che il pane si sarà ammollato, aggiungeteci un pizzico di sale, lo zucchero, la/e farina/e, l'uovo, l'uvetta, la scorza di limone e il resto della frutta tagliata a dadini.
 
