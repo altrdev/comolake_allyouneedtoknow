@@ -35,3 +35,19 @@ source:
   - icon: fa fa-train
     number: 7
     description: Be careful, because the <b>only train line</b> that covers the whole lake north to south is on the east side (Colico-Lecco). There's no train lines on the west side, so trains on this side will stop in Como.
+
+  - icon: fa fa-ship
+    number: 8
+    description: There's a quite strong <b>ferry</b> service on the Lake of Como. Have a look <a href="https://www.navigazionelaghi.it/lago-como.aspx" target="_blank">here</a> to get more info about tickets and timetables.
+
+  - icon: fa fa-map-marker
+    number: 9
+    description: <b>Isola Comacina</b> is a natural little island in the middle of Lake of Como, a real open-air museum. You can get there by taking a <b>taxi-boat</b> from Ossuccio (7€), or ferry. To visit the island, you'll have to pay an <b>entrance ticket</b> which costs 6€ for adults, kids aged <5 can enter for free. You can get your tickets directly on the island. Find more info <a href="https://www.isola-comacina.it/" target="_blank">here</a>. Isola Comacina is usually open March to November, as it's not accessible in winter.
+
+  - icon: fa fa-home
+    number: 10
+    description: Many <b>VIPs</b> continue to choose Lake of Como for their holidays, thus they've bought a villa there. The most famous one is <b>George CLooney</b> with his <b>Villa Olmo</b> in Laglio. VIPs' residences are mostly located on the western side of the lake, where the most ancient villas have been built over time.
+
+  - icon: fa fa-map
+    number: 11
+    description: When you hear about <b>Tremezzina</b>, people are referring to that area on the west side of the Lake that goes from Campo (Lenno) to Cadenabbia (Griante).

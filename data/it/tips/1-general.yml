@@ -35,4 +35,19 @@ source:
   - icon: fa fa-train
     number: 7
     description: State attenti, perchè l'<b>unica linea ferroviaria</b> che attraversa tutto il lago da nord a sud si trova sulla sponda lecchese e va appunto da Colico a Lecco. Non ci sono linee invece sulla sponda opposta, quindi i treni ad ovst  arrivano solo fino a Como.
+
+  - icon: fa fa-ship
+    number: 8
+    description: Sul Lago di Como è attivo il servizio di <b>navigazione</b>. Date un'occhiata <a href="https://www.navigazionelaghi.it/lago-como.aspx" target="_blank">qui</a> per vedere le rotte e i prezzi dei biglietti.
   
+  - icon: fa fa-map-marker
+    number: 9
+    description: L'<b>Isola Comacina</b> è un'isola naturale che si trova nel Lago di Como e rappresenta un vero e proprio museo all'aria aperta. Si raggiunge in <b>taxi-boat</b> direttamente da Ossuccio (7€), oppure in battello. L'ingresso all'Isola prevede il pagamento di un <b>biglietto</b> di 6€ per gli adulti, mentre è gratuita per i bambini sotto i 5 anni. I biglietti sono acquistabili direttamente sull'isola. Trovate più info <a href="https://www.isola-comacina.it/" target="_blank">qui</a>. L'Isola Comacina è accessibile solitamente da marzo a novembre, mentre resta chiusa nei mesi invernali.
+
+  - icon: fa fa-home
+    number: 10
+    description: Molti <b>VIP</b> scelgono il Lago di Como per le loro vacanze e hanno per questo comprato una villa. Il più famoso VIP con residenza sul lago è sicuramente <b>George Clooney</b>, con la sua <b>Villa Olmo</b> a Laglio. Le residenze dei VIP si trovano principalmente sulla sponda comasca, quella dove si trovano le ville più antiche.
+
+  - icon: fa fa-map
+    number: 11
+    description: Quando sentite parlare di <b>Tremezzina</b>, ci si riferisce al territorio costiero del ramo occidentale del lago di Como che va da Campo, frazione del comune di Lenno a Cadenabbia, frazione del comune di Griante.
